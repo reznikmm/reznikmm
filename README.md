@@ -31,6 +31,7 @@ Ada is focused on **reliability**, **safety**, and **large, long-term projects**
   - [neo_pixel](https://github.com/reznikmm/neo_pixel) — RGB LED Serial Driver (WS2812, SK6812, etc.)
   - [qmc5883](https://github.com/reznikmm/qmc5883) — Magnetic sensor
   - [w25x](https://github.com/reznikmm/w25x) — SPI flash memory (VERY DRAFT!)
+  - [ili9341](https://github.com/reznikmm/ili9341) — ILI9341 display (VERY DRAFT!)
 - [enet_tap](https://github.com/reznikmm/enet_tap) — ENet driver over TUN/TAP device
 
 ---
